@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-👋**Olá, me chamo Jhuan,atualmente tenho 16 anos e estudo programação  por diversão, porém, espero no futuro poder trabalhar na área🥴<br>🤔Quero trabalhar em desenvolvimentos de jogos ou alguma área que envolva programação
+👋Olá, me chamo Jhuan,atualmente tenho 16 anos e estudo programação  por diversão, porém, espero no futuro poder trabalhar na área🥴<br>🤔Quero trabalhar em desenvolvimentos de jogos ou alguma área que envolva programação
 
 
 ## 🌐 Contatos:
