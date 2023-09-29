@@ -2,7 +2,7 @@
 👋Olá, me chamo Jhuan,atualmente tenho 16 anos e estudo programação  por diversão, porém, espero no futuro poder trabalhar na área🥴<br>🤔Quero trabalhar em desenvolvimentos de jogos ou alguma área que envolva programação
 
 
-## 🌐 Socials:
+## 🌐 Contatos:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jhuanlucas12345@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521977258949)
 
